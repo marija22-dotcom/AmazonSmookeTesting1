@@ -27,3 +27,8 @@ Install dependencies: Bash npm install
 Run the tests: Bash npx playwright test
 View the HTML report: Bash npx playwright show-report
 Note: For security reasons, the TestData.ts file containing credentials is not included in this repository. To run tests locally, please create a TestData.ts file based on the project structure.
+
+###  Test Execution Videos
+
+* [Login Test Video](./media/login_test_video.webm)
+* [Buy Flow Test Video](./media/buyFlow_test_video.webm)
